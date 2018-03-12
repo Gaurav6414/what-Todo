@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "385429569379",
+    "firebase_url": "https://what-todo-804b6.firebaseio.com",
+    "project_id": "what-todo-804b6",
+    "storage_bucket": "what-todo-804b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385429569379:android:31432d6b5c38cdfd",
+        "android_client_info": {
+          "package_name": "com.example.grv.whattodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385429569379-jbrkfckjrkklaunfppo4r0ab8bb93iid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grv.whattodo",
+            "certificate_hash": "0501beb4f0a31252b35f09a6f10e05e0ebc4dbac"
+          }
+        },
+        {
+          "client_id": "385429569379-c9gq13urn9n346gql4vs3p1nsa3n1197.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_-wTk0XdsjnPOq6v91P2t6UcdUXZsleI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385429569379-c9gq13urn9n346gql4vs3p1nsa3n1197.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
